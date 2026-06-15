@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.mp4
+.env
+*.h5
+*.pth
+*.zip
+*.pkl
+*.onnx
