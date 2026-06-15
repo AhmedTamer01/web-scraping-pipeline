@@ -1,15 +1,6 @@
 # Web Scraping Pipeline
 
-## Description
-Automated pipeline for scraping, cleaning, and formatting web data.
-
-## Category
-Data Analysis
-
-## Tech Stack / Tags
-- Python
-- BeautifulSoup
-- Automation
+This repository contains the source code for the **Web Scraping Pipeline** project.
 
 ---
 *This repository is part of my AI Engineer / Data Scientist Portfolio.*
